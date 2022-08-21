@@ -1,5 +1,5 @@
 # Android-Weather-App
-<img  src='SS/Screenshot_3.jpg' >
+<img  src='SS/Screenshot_3.jpg' width="400" height="1000" >
 
 <br>
 <p>This project is on Creating an Android Weather App using Kotlin.
