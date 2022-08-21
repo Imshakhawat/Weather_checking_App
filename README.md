@@ -1,5 +1,5 @@
 # Android-Weather-App
-<img  src='https://www.androdocs.com/files/uploads/original/creating-an-android-weather-app-using-kotlin-1565972769.jpg' >
+<img  src='/ss/Screenshot_3' >
 
 <br>
 <p>This project is on Creating an Android Weather App using Kotlin.
